@@ -44,7 +44,6 @@ This project analyzes operational KPIs, identifies root causes, and proposes bus
 3. KPI Analysis
 4. Root Cause Analysis
 5. Business Recommendations
-6. Executive Summary
 
 ---
 
